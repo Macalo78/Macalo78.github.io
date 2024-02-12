@@ -19,5 +19,6 @@ body{
     color:var(--exemplevariable);
 }
 img {
-    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
