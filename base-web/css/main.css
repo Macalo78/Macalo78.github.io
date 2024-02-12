@@ -18,8 +18,3 @@
 body{
     color:var(--exemplevariable);
 }
-.image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
