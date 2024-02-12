@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html> <!-- En-tête de la page -->
+<head>
+<meta charset="utf-8" /> <!-- encodage caractères spéciaux-->
+<title>Titre</title>
+</head>
+<body>  <!-- Corps de la page -->
+
+<img src="Mer.gif">
+
+</body>
+</html>
