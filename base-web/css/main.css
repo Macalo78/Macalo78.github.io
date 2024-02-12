@@ -18,3 +18,10 @@
 body{
     color:var(--exemplevariable);
 }
+img {
+    display: block;
+    text-align: center;
+    width: 500px;
+    height: 700px;
+    margin: 0px auto;
+}
